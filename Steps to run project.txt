@@ -1,0 +1,4 @@
+******** Instructions to run the project ***********
+
+1)Download the "Algorithm_Visualizer" zip folder
+2)you can use any of the python's IDE to run the project.
